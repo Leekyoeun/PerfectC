@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="putstring.c">
+    <ClCompile Include="printmline.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="printstring.c">
+    <ClCompile Include="debugging.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
